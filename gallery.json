@@ -3,14 +3,32 @@
     "id": 1,
     "type": "photo",
     "url": "https://raw.githubusercontent.com/massverseapps/Soniya-Gallery-Data/refs/heads/main/pic1.png",
-    "count": 24,
+    "req_perfection": 0,
+    "coin_price": 0,
     "isLiked": false
   },
-    {
-    "id": 1,
+  {
+    "id": 2,
     "type": "photo",
     "url": "https://raw.githubusercontent.com/massverseapps/Soniya-Gallery-Data/refs/heads/main/hot_pic1.png",
-    "count": 900,
+    "req_perfection": 25,
+    "coin_price": 30,
     "isLiked": false
-    }
+  },
+  {
+    "id": 3,
+    "type": "video",
+    "url": "file:///android_res/drawable/soniya_dp.jpg",
+    "req_perfection": 50,
+    "coin_price": 50,
+    "isLiked": false
+  },
+  {
+    "id": 4,
+    "type": "photo",
+    "url": "file:///android_res/drawable/soniya.png",
+    "req_perfection": 80,
+    "coin_price": 100,
+    "isLiked": false
+  }
 ]
